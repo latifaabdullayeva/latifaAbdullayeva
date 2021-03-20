@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Sidebar from "../components/Sidebar";
 import Navbar from "../components/Navbar";
 
-function Home() {
+const Home = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const toggle = () => {
@@ -15,6 +15,6 @@ function Home() {
       <Navbar toggle={toggle} />
     </>
   );
-}
+};
 
 export default Home;
