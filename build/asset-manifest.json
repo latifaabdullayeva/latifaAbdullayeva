@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/latifaAbdullayeva/static/css/main.aadda1c7.chunk.css",
-    "main.js": "/latifaAbdullayeva/static/js/main.0d84e3d6.chunk.js",
-    "main.js.map": "/latifaAbdullayeva/static/js/main.0d84e3d6.chunk.js.map",
+    "main.js": "/latifaAbdullayeva/static/js/main.0e29e6d5.chunk.js",
+    "main.js.map": "/latifaAbdullayeva/static/js/main.0e29e6d5.chunk.js.map",
     "runtime-main.js": "/latifaAbdullayeva/static/js/runtime-main.7648d3d8.js",
     "runtime-main.js.map": "/latifaAbdullayeva/static/js/runtime-main.7648d3d8.js.map",
     "static/js/2.07d99038.chunk.js": "/latifaAbdullayeva/static/js/2.07d99038.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.7648d3d8.js",
     "static/js/2.07d99038.chunk.js",
     "static/css/main.aadda1c7.chunk.css",
-    "static/js/main.0d84e3d6.chunk.js"
+    "static/js/main.0e29e6d5.chunk.js"
   ]
 }
